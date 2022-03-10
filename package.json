@@ -1,6 +1,6 @@
 {
   "name": "@losslesscash/lerc20",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A package for the LERC20 smart contract",
   "main": "index.js",
   "scripts": {},
