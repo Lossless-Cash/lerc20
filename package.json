@@ -1,0 +1,18 @@
+{
+  "name": "lerc20",
+  "version": "1.0.0",
+  "description": "A package for the LERC20 smart contract",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Lossless",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lossless-Cash/lerc20.git"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
+  },
+  "homepage": "https://lossless.cash/"
+}
